@@ -2,15 +2,15 @@ namespace WebApplication1;
 
 public class Company
 {
-    string Name { get; set;}
-    string Address { get; set;}
-    string City { get; set;}
-    string State { get; set;}
-    string ZipCode { get; set;}
-    string Phone { get; set;}
+    public string Name { get; set; }
+    public string Address { get; set; }
+    public string City { get; set; }
+    public string State { get; set; }
+    public string ZipCode { get; set; }
+    public string Phone { get; set; }
 
-    string ToString()
+    public string ToString()
     {
-        return "Company: " + Name + "," + Address + "," + City + "," + State + "," + ZipCode + "," + Phone;
+        return "Company: " + Name + ", " + Address + ", " + City + ", " + State + ", " + ZipCode + ", " + Phone;
     }
 }

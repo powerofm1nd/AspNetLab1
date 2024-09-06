@@ -23,3 +23,4 @@ E:\asp.net projects\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebA
 E:\asp.net projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 E:\asp.net projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 E:\asp.net projects\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+E:\asp.net projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
